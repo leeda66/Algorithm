@@ -1,3 +1,4 @@
+#9.
 num = int(input())
 nums = list(map(int, input().split()))
 sosu = 0
